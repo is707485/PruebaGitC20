@@ -1,0 +1,4 @@
+Funcion int Resta ()
+inicio 
+ return 5-3
+final
