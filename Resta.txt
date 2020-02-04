@@ -1,4 +1,4 @@
-Funcion int Resta ()
+Funcion int Resta (int a, int b)
 inicio 
  return 5-3
 final
